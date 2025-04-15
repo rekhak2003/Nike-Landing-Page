@@ -117,14 +117,14 @@ body{
     display: none;
 }
 
-.product{
+.product {
     height: 370px;
     width: 250px;
     background-color: #1011;
     position: relative;
     box-shadow: 0 5px 10px rgba(17, 0, 17, 0.3);
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 20px; 
 }
 
 .product img{
@@ -133,6 +133,12 @@ body{
     object-fit: contain;
     position: absolute;
     bottom: 20%;
+}
+
+.product h4, .catagory, .color, .price {
+    position: absolute;
+    width: 100%;
+    text-align: center;
 }
 
 .product h4{
