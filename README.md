@@ -1,5 +1,5 @@
 ## Nike Landing Page 👟
-Welcome to the Nike Landing Page! This is a simple yet clean landing page for showcasing Nike's limited edition shoes. Built with HTML and CSS, the page includes a responsive layout and a visually appealing design.
+This is a basic Nike landing page made using HTML and CSS. It shows some limited edition Nike shoes with a clean layout.
 
 ## 💻 What This Project Includes
   * Top Navigation Bar:
