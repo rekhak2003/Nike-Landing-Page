@@ -1,21 +1,32 @@
-# Nike Landing Page 👟
+## Nike Landing Page 👟
+Welcome to the Nike Landing Page! This is a simple yet clean landing page for showcasing Nike's limited edition shoes. Built with HTML and CSS, the page includes a responsive layout and a visually appealing design.
 
-This is a basic Nike landing page made using **HTML** and **CSS**. It shows some limited edition Nike shoes with a clean layout.
+## 💻 What This Project Includes
+  * Top Navigation Bar:
+    
+    * Logo and menu for easy navigation.
 
----
+  * Main Section:
 
-## 💻 What this project includes
+    * Title and text highlighting the main product.
 
-- A top navigation bar with a logo and menu
-- A main section with a title, text, and a "Shop Now" button
-- A row of Nike shoes that scrolls sideways
-- Nice fonts and icons
+    * A "Shop Now" button for easy access to product details.
 
----
+  * Nike Shoes Showcase:
 
-## 🛠️ Tools used
+    * A row of limited edition Nike shoes that scroll sideways, adding a dynamic touch to the page.
 
-- HTML
-- CSS
-- Google Fonts (Inter)
-- Remix Icon for icons
+  * Fonts & Icons:
+
+    * Google Fonts (Inter) for modern typography.
+
+    * Remix Icon for attractive and functional icons.
+
+## 🛠️ Tools Used 
+HTML: For creating the structure and layout of the page.
+
+CSS: For styling the page and ensuring a clean, responsive design.
+
+Google Fonts: Using the Inter font for a modern and sleek typography style.
+
+Remix Icon: For icons to enhance the user interface.
